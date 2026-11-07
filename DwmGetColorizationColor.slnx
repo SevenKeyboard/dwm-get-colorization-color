@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SevenKeyboard.DwmGetColorizationColor/SevenKeyboard.DwmGetColorizationColor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DwmGetColorizationColor.Smoke/DwmGetColorizationColor.Smoke.csproj" />
+  </Folder>
+</Solution>
